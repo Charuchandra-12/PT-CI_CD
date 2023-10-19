@@ -1,3 +1,8 @@
-{"scripts":{
+{
+  "scripts": {
     "start": "node src"
-  }}
+  },
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
