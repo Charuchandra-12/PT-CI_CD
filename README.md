@@ -20,3 +20,5 @@ Build a deployment pipeline to deploy a Hello world app in Python or Node using 
 3. Created src folder with 2 files named app.js and index.js with appropriate code and also created a package.json just to check the code locally.
 
 4. Reference Blog :- https://blog.logrocket.com/ci-cd-node-js-github-actions/
+
+5. As I was creating the node server, pipeline processess are getting ran continuously so I made a change and wrote a simple javascript code instead of nodejs code. And now pipeline is getting executed correctly.
